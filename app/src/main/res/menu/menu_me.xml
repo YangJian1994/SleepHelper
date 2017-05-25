@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/main_group">
+
+        <item
+            android:id="@+id/item_info"
+            android:icon="@mipmap/ic_launcher"
+            android:title="1"/>
+
+        <item
+            android:id="@+id/item_switch"
+            android:icon="@mipmap/ic_launcher"
+            android:title="2"/>
+
+        <item
+            android:id="@+id/item_join"
+            android:icon="@mipmap/ic_launcher"
+            android:title="3"/>
+
+        <item
+            android:id="@+id/item_build"
+            android:icon="@mipmap/ic_launcher"
+            android:title="4"/>
+    </group>
+
+</menu>
